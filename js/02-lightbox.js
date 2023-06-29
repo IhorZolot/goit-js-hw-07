@@ -22,8 +22,8 @@ const lightbox = new SimpleLightbox(".gallery a", {
   captionsDelay: 250,
 });
 
+console.log(galleryItems);
+
 // var lightbox = new SimpleLightbox(".gallery a", {
 //   /* options */
 // });
-
-console.log(galleryItems);
